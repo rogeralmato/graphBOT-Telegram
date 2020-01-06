@@ -79,7 +79,7 @@ La primera és mostrar un report amb **/report** de les respostes de tots els us
   <img width="400" src="https://i.ibb.co/PQd3LsC/Screenshot-2020-01-06-at-16-29-53.png">
 </p>
 
-Finalment també es pot mostrar una gràfica en format _pie_ amb **\pie idpregunta** o en format _gràfic de barres_ amb **\bar idPregunta**.
+Finalment també es pot mostrar una gràfica en format _pie_ amb **/pie idpregunta** o en format _gràfic de barres_ amb **\bar idPregunta**.
 <p align="center">
   <img src="https://i.ibb.co/Wyr04qn/Screenshot-2020-01-06-at-16-44-21.png" width="350" />
   <img src="https://i.ibb.co/7N5TRL9/Screenshot-2020-01-06-at-16-44-35.png" width="350" /> 
