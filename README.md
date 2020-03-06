@@ -1,4 +1,4 @@
-# QUIZBOT  - Pràctica LP 2019/20 Q1 
+# QUIZBOT  - Pràctica LP
 
 Pràctica de compiladors i bot de Telegram per l'assignatura de llenguatges de programació de la UPC. Per realitzar la part de compiladors s'ha utilitzat ANTLR4 i Python3 per la part del bot de Telegram. La pràctica consisteix en compilar una enquesta (en un format establert i guardada en format .txt) de manera que se'n extreu tota la informació necessària per tal de que els usuaris la pugin respondre a través de un bot de Telegram. Les característiques del compilador i del bot s'estudiaran en detall a continuació. 
 
