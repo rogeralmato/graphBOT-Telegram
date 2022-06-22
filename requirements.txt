@@ -24,7 +24,7 @@ instapy-chromedriver==2.46
 jsonschema==3.0.1
 MeaningCloud-python==1.1.1
 networkx==2.3
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 Pillow==6.0.0
 plyer==1.4.0
